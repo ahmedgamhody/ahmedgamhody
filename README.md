@@ -13,7 +13,7 @@
 <a href="https://fb.com/gamhody159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gamhody159" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_s_gamhody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_s_gamhody" height="30" width="40" /></a>
 <a href="https://wa.me/201114026722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
-<a href="mailto:ahmedgamhody1@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg(https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_256px.png)" alt="email" height="30" width="40" /></a>
+<a href="mailto:ahmedgamhody1@outlook.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_256px.png" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
