@@ -35,7 +35,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998329chatgpt-logo-with-text.png" alt="chatgpt" width="100" height="40"/> </a>
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998329chatgpt-logo-with-text.png" alt="chatgpt" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
