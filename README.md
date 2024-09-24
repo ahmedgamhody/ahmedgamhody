@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaban Gamhody</h1>
 <h3 align="center">IT student | Front-End Developer ( React js | Next js )</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="GIF" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamhody&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamhody" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamhody" alt="ahmedgamhody" /></a> </p>
