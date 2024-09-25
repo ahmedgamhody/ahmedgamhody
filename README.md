@@ -7,8 +7,8 @@
 
 
 - 📞 Feel free to call me: <a href="tel:+201114026722">+201114026722</a>
-- 📧 You can also reach me via email: **ahmedgamhody1@outlook.com**
-- 📄 My CV : https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view
+- 📧 You can also reach me via email: <a href="mailto:ahmedgamhody1@outlook.com">ahmedgamhody1@outlook.com</a>
+- 📄 My CV: <a href="https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view" target="_blank">View my CV</a>
 
 
 <!-- About Me Section -->
