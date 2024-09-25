@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular v18**
 
-- 📫 How to reach me **+201114026722**
+- 📫 How to reach me : **+201114026722**
 - 📫 How to reach me **ahmedgamhody1@outlook.com**
 
 - 📄 My CV : https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view
