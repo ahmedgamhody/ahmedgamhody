@@ -5,6 +5,15 @@
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="GIF" width="300" />
 </p>
 
+
+- 🌱 I’m currently learning **Angular v18**
+
+- 📫 How to reach me **+201114026722**
+- 📫 How to reach me **ahmedgamhody1@outlook.com**
+
+- 📄 My CV : https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view
+
+
 <!-- About Me Section -->
 <h3 align="left">🚀 About Me:</h3>
 <p align="left">
