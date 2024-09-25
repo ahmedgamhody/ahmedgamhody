@@ -6,9 +6,10 @@
 </p>
 
 
-- 📞 Feel free to call me: <a href="tel:+201114026722">+201114026722</a>
-- 📧 You can also reach me via email: <a href="mailto:ahmedgamhody1@outlook.com">ahmedgamhody1@outlook.com</a>
-- 📄 My CV: <a href="https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view" target="_blank">View my CV</a>
+- 📞 Feel free to call me: [Call me](tel:+201114026722)
+- 📧 You can also reach me via email: [Email me](mailto:ahmedgamhody1@outlook.com)
+- 📄 My CV: [View my CV](https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view)
+
 
 
 <!-- About Me Section -->
