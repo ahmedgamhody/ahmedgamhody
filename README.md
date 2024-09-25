@@ -6,7 +6,7 @@
 </p>
 
 
-- 📞 Feel free to call me: [Call me](tel:+201114026722)
+- 📞 Feel free to call me: +201114026722
 - 📧 You can also reach me via email: [Email me](mailto:ahmedgamhody1@outlook.com)
 - 📄 My CV: [View my CV](https://drive.google.com/file/d/1rVH5UD7H4EwHptbCGXWPWBDZwnqIj5px/view)
 
