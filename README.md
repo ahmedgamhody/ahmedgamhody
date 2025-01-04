@@ -18,9 +18,6 @@
   Hi, I am Ahmed Shaban Gamhody. I study at the Faculty of Computers and Artificial Intelligence, IT Department, and I work as a Front-End Developer with more than one year of experience in the technological field. I specialize in creating responsive and dynamic web applications using React.js, Next.js, and other cutting-edge technologies.
 </p>
 
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div>
