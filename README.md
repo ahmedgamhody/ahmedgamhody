@@ -28,7 +28,7 @@
   <samp>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/ahmedgamhody" target="_blank">
+      <a href="https://www.linkedin.com/in/ahmedgamhody" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"/>
       </a>
       <a href="https://www.facebook.com/abdoahmed26?mibextid=ZbWKwL" target="_blank">
