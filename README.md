@@ -52,15 +52,7 @@
 
 <br/>
 
-- **Back-End Developer**:
 
-  <p>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=expressjs" alt="expressjs" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/>
-  </p>
   <p>
       <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>    
   </p>
