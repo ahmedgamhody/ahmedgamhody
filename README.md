@@ -137,4 +137,26 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
 
 
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Stats and Streak</b>
+<p align="center">
+  <a href="https://github.com/abdoahmed26">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoahmed26&theme=radical&border=7F3FBF&background=0D1117" alt="Abdulrahman Ahmed's GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abdoahmed26">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdoahmed26&theme=radical" alt="Abdulrahman Ahmed's GitHub Contribution"/>
+  </a>
+</p>
+<a> 
+
+<a href="https://github.com/abdoahmed26"><img alt="Abdulrahman Ahmed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdoahmed26&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abdoahmed26"><img alt="Abdulrahman Ahmed's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdoahmed26&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</a>
+
+  <br/>
+  
+![Abdulrahman Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoahmed26&custom_title=Abdulrahman%20Ahmed%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<hr/>
+<br/>
 
