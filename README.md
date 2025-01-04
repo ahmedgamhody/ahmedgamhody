@@ -155,7 +155,13 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
 </a>
 
   <br/>
-  
+  <br/>
+
+![Ahmed Gamhody's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedgamhody&custom_title=Ahmed%20Gamhody%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<hr/>
+<br/>
+
 
 <hr/>
 <br/>
