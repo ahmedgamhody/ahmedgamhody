@@ -150,8 +150,8 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
 </p>
 <a> 
 
-<a href="https://github.com/ahmedgamhody"><img alt="Abdulrahman Ahmed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ahmedgamhody&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ahmedgamhody"><img alt="Abdulrahman Ahmed's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamhody&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/ahmedgamhody"><img alt="Ahmed Gamhody's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ahmedgamhody&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ahmedgamhody"><img alt="Ahmed Gamhody's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamhody&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
 
   <br/>
