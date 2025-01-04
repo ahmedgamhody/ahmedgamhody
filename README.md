@@ -140,12 +140,12 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Stats and Streak</b>
 <p align="center">
   <a href="https://github.com/ahmedgamhody">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamhody&theme=radical&border=7F3FBF&background=0D1117" alt="Abdulrahman Ahmed's GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamhody&theme=radical&border=7F3FBF&background=0D1117" alt="Ahmed Gamhody's GitHub Streak"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ahmedgamhody">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedgamhody&theme=radical" alt="Abdulrahman Ahmed's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedgamhody&theme=radical" alt="Ahmed Gamhody's GitHub Contribution"/>
   </a>
 </p>
 <a> 
