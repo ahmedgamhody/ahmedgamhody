@@ -39,7 +39,7 @@
         <img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30"/>
       </a>
       <a href="mailto:ahmedgamhody1@outlook.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/>
+        <img align="center" src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="gmail" height="30"/>
       </a>
       <a href="https://wa.me/+201114026722" target="_blank">
         <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp" height="30"/>
