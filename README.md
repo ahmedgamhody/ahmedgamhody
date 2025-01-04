@@ -28,7 +28,7 @@
   <samp>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/abdo-ahmed-67185a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <a href="https://www.linkedin.com/inahmedgamhody?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"/>
       </a>
       <a href="https://www.facebook.com/abdoahmed26?mibextid=ZbWKwL" target="_blank">
