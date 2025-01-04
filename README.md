@@ -23,8 +23,37 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<div>
 
+  <details align="center">
+      <summary>
+        <h3 align="center" style="display:flex;justify-content:center;align-items:center;">
+            Connect with me  
+            <img src="https://media.giphy.com/media/cOLvtXLNWPnD8jrtS3/giphy.gif" width="55" height="55" />
+        </h3>
+    </summary>
+<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/ahmedgamhody" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"/>
+      </a>
+      <a href="https://www.facebook.com/abdoahmed26?mibextid=ZbWKwL" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30"/>
+      </a>
+      <a href="mailto:ba2662003@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/>
+      </a>
+      <a href="https://wa.me/+01207583096" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp" height="30"/>
+      </a>
+    </p>
+  </samp>
+</div>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SKILLS</b>
 
 
