@@ -20,8 +20,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-<details align="center">
+<div>
+  <details align="center">
       <summary>
         <h3 align="center" style="display:flex;justify-content:center;align-items:center;">
             Connect with me  
@@ -54,6 +54,8 @@
 src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 </details>
+</div>
+<br><br>
 
 
 
