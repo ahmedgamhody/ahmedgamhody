@@ -2,8 +2,10 @@
 <h3 align="center">IT student | Front-End Developer ( React js | Next js )</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I'm+Ahmed+Gamhody. 🤍;IT student | Front-End Developer" />
-</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7F3FBF&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I'm+Ahmed+Gamhody.🤍;IT+Student+|+Front-End+Developer" />
+
+ </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="GIF" width="300" />
