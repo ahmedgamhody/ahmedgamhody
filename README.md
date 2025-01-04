@@ -53,9 +53,7 @@
 <br/>
 
 
-  <p>
-      <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>    
-  </p>
+
 
 <br>
 
