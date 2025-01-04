@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-  <details align="center">
+<details align="center">
       <summary>
         <h3 align="center" style="display:flex;justify-content:center;align-items:center;">
             Connect with me  
@@ -32,7 +32,7 @@
   <samp>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/ahmedgamhody" target="_blank">
+      <a href="https://www.linkedin.com/in/abdo-ahmed-67185a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"/>
       </a>
       <a href="https://www.facebook.com/abdoahmed26?mibextid=ZbWKwL" target="_blank">
@@ -47,6 +47,13 @@
     </p>
   </samp>
 </div>
+
+
+<p align=''>
+<img 
+src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+</details>
 
 
 
