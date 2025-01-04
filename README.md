@@ -93,7 +93,7 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
 
 <br/>
 
- <h3 align="left">Tools:</h3>
+ <h3 align="left"> - Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998448chat-gpt-logo-png.png" alt="chatgpt" width="40" height="40"/> </a>
