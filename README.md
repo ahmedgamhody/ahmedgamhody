@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaban Gamhody</h1>
 <h3 align="center">IT student | Front-End Developer ( React js | Next js )</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I'm+Ahmed+Gamhody.+😎;Full-Stack+Developer;Currently+learning+Web+Development+by+Self" />
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="GIF" width="300" />
