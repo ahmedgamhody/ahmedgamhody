@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaban Gamhody</h1>
-<h3 align="center">IT student | Front-End Developer ( React js | Next js )</h3>
+<h3 align="center">Front-End Developer ( React js | Next js )</h3>
 
 <p align="center">
 
