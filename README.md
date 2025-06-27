@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I%27m+Ahmed+Gamhody.%F0%9F%A4%8D;IT+Student+%26+Front-End+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I%27m+Ahmed+Gamhody.%F0%9F%A4%8D;Front-End+Developer" />
 
  </p>
 
