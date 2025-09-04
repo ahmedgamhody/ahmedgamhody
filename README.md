@@ -21,7 +21,13 @@
 <!-- About Me Section -->
 <h3 align="left">🚀 About Me:</h3>
 <p align="left">
-  Hi, I am Ahmed Shaban Gamhody. I study at the Faculty of Computers and Artificial Intelligence, IT Department, and I work as a Front-End Developer with more than one year of experience in the technological field. I specialize in creating responsive and dynamic web applications using React.js, Next.js, and other cutting-edge technologies.
+ Hi, I’m Ahmed Gamhody, a Frontend Developer at Corelia.
+
+I specialize in building modern, responsive, and high-performance web applications with a strong focus on clean code, usability, and scalability.
+
+With over two years of experience, I’ve developed and delivered various projects, including e-commerce platforms and dashboards, always aiming to create seamless user experiences and impactful digital solutions.
+
+I’m passionate about continuous learning, collaboration, and bringing ideas to life through technology.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
