@@ -12,7 +12,7 @@
 </p>
 
 
-- 📄 My CV : [View my CV](https://drive.google.com/file/d/1N6Hd7md4oUqxXr938mFYyNu87-SgmcZs/view?usp=drive_link](https://drive.google.com/file/d/1YKn6ngL3HN_Jg_LbhGbZw1zt08DACuJK/view?usp=sharing))
+- 📄 My CV : [View my CV](https://drive.google.com/file/d/1N6Hd7md4oUqxXr938mFYyNu87-SgmcZs/view?usp=drive_link](https://drive.google.com/file/d/1YKn6ngL3HN_Jg_LbhGbZw1zt08DACuJK/view?usp=sharing(https://drive.google.com/file/d/1YKn6ngL3HN_Jg_LbhGbZw1zt08DACuJK/view)))
 - 📞 Feel free to call me : +201114026722
 - 📧 You can also reach me by email : [Email me](mailto:ahmedgamhody1@outlook.com)
 
