@@ -102,7 +102,27 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
           <img src="https://skillicons.dev/icons?i=vite" alt="Material UI" width="50" height="50"/>
      </p>
  </p>
-
+- **Front-End Development**:
+  <p>
+      <p>
+          <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
+     </p>
+     <p>
+          <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/> 
+          <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=next" alt="next.js" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=prisma" alt="Material UI" width="50" height="50"/>
+     </p>
+     <p>
+          <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=vite" alt="Material UI" width="50" height="50"/>
+     </p>
+ </p>
 <br/>
 
  <h3 align="left"> - Tools:</h3>
