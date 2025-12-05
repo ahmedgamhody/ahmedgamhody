@@ -101,39 +101,17 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
 
 ---
 
-## 💼 Projects
-
-### 1. E-Commerce Platform
-<p>
-  <a href="https://github.com/ahmedgamhody/ecommerce-platform" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-**Description:** Modern e-commerce web application with user authentication, shopping cart, and payment integration.
-
----
-
-### 2. Dashboard Analytics
-<p>
-  <a href="https://github.com/ahmedgamhody/dashboard-analytics" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-**Description:** Real-time dashboard for analytics with charts, filters, and reports.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ahmedgamhody">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamhody&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmedgamhody">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedgamhody&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 
@@ -145,6 +123,8 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
 <p align="center">
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedgamhody&custom_title=Ahmed%20Gamhody%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250"/>
