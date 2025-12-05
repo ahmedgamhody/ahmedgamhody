@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaban Gamhody</h1>
-<h3 align="center">Front-End Developer ( React js | Next js )</h3>
+<h3 align="center">Full-Stack MERN Developer ( React js | Node js )</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I%27m+Ahmed+Gamhody.%F0%9F%A4%8D;Front-End+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I%27m+Ahmed+Gamhody.%F0%9F%A4%8D;Full-Stack+MERN+Developer" />
 
  </p>
 
