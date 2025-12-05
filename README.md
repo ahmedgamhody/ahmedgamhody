@@ -24,7 +24,7 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
 
 ## 📫 Let's Connect & My CV
 
-<p align="center">
+<div align="center">
   <a href="https://drive.google.com/file/d/1YKn6ngL3HN_Jg_LbhGbZw1zt08DACuJK/view" target="_blank">
     <img src="https://img.shields.io/badge/View_CV-4ABDAC?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0D1117" alt="View CV"/>
   </a>
@@ -43,14 +43,14 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
   <a href="https://web.facebook.com/Gamhody159" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/>
   </a>
-</p>
+</div>
 
 ---
 
 ## 💻 Skills & Technologies
 
 ### Front-End
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
@@ -66,7 +66,7 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
 </div>
 
 ### Back-End
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
@@ -78,7 +78,7 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
 </div>
 
 ### Tools & Platforms
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/>
@@ -91,41 +91,41 @@ I'm passionate about learning, collaboration, and bringing ideas to life through
 </div>
 
 ### Cloud Hosting
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VERCEL-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Railway-%23121011.svg?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-%23121011.svg?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Koyeb-%23121011.svg?style=for-the-badge&logo=koyeb&logoColor=white"/>
-</p>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ahmedgamhody">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamhody&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ahmedgamhody">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedgamhody&theme=radical" alt="GitHub Contribution"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ahmedgamhody"><img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ahmedgamhody&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/ahmedgamhody"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamhody&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
+</div>
 
-<p align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedgamhody&custom_title=Ahmed%20Gamhody%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedgamhody&custom_title=Ahmed%20Gamhody%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250"/>
-</p>
+</div>
