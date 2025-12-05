@@ -21,13 +21,15 @@
 <!-- About Me Section -->
 <h3 align="left">🚀 About Me:</h3>
 <p align="left">
- Hi, I’m Ahmed Gamhody, a Frontend Developer at Corelia.
+Hi, I’m Ahmed Gamhody, a Full-Stack MERN Developer at Corelia.
 
-I specialize in building modern, responsive, and high-performance web applications with a strong focus on clean code, usability, and scalability.
+I build modern, responsive web applications with a focus on clean code, usability, and scalability.
 
-With over two years of experience, I’ve developed and delivered various projects, including e-commerce platforms and dashboards, always aiming to create seamless user experiences and impactful digital solutions.
+Experienced in both frontend and backend, I deliver end-to-end solutions, from intuitive interfaces to robust server logic and databases.
 
-I’m passionate about continuous learning, collaboration, and bringing ideas to life through technology.
+Over the past two years, I’ve developed projects like e-commerce platforms and dashboards, always aiming for seamless user experiences.
+
+I’m passionate about learning, collaboration, and bringing ideas to life through technology.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -102,7 +104,7 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
           <img src="https://skillicons.dev/icons?i=vite" alt="Material UI" width="50" height="50"/>
      </p>
  </p>
-- **Front-End Development**:
+- **Backend Development**:
   <p>
       <p>
           <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/>
@@ -128,7 +130,6 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
  <h3 align="left"> - Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998448chat-gpt-logo-png.png" alt="chatgpt" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
